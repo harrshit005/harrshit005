@@ -1,3 +1,5 @@
+Harshit Dattusalia.png
+
 ## Hi 👋 I'm Harshit
 
 <!--
