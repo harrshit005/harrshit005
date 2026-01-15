@@ -1,4 +1,4 @@
-![Profile Image](Harshit%20.png)
+![Profile Image](H%20.png)
 
 # Hi 👋 I'm Harshit
 
