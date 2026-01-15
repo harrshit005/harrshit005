@@ -1,6 +1,7 @@
-Harshit Dattusalia.png
+![Profile Image](Harshit%20Dattusalia.png)
 
-## Hi 👋 I'm Harshit
+# Hi 👋 I'm Harshit
+
 
 <!--
 **harrshit005/harrshit005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
