@@ -1,4 +1,4 @@
-![Profile Image](Harshit%20Dattusalia.png)
+![Profile Image](Harshit.png)
 
 # Hi 👋 I'm Harshit
 
